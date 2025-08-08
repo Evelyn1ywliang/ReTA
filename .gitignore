@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+log_output/
+*/__pycache__
+*.pyc
+datasets/__pycache__
+clip/__pycache__
+*.pt

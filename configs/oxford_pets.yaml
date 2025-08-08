@@ -1,0 +1,15 @@
+# Configuration for ReTA Hyperparameters
+
+# --- Positive Cache Configuration ---
+positive:
+  enabled: True
+  shot_capacity: 3
+  alpha: 4.0
+  beta: 7.0 
+  lam: 0.99
+  ratio: 0.5
+
+learning_rate:
+  text: 0.0006
+  align: 0.3
+  train_w: 0.02
