@@ -2,4 +2,4 @@
 CUDA_VISIBLE_DEVICES=0 python main_reta.py   --config configs \
                                             --datasets I/A/V/R/S \
                                             --backbone RN50 \
-                                            --data-root dataset/CLIP_Data \
+                                            --data-root dataset/TTA_Data \

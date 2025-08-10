@@ -8,6 +8,7 @@ tb-nightly
 future
 scipy
 scikit-learn
+matplotlib
 tqdm
 wandb==0.15.12
 chardet
@@ -15,3 +16,5 @@ ftfy
 regex
 wilds==1.2.2
 tabulate
+open-clip-torch
+info-nce-pytorch
