@@ -6,7 +6,7 @@
 ### 📚 Overview
 
 <p align="center">
-  <img src="assets/reta_pipeline.png" alt="ReTA Pipeline Overview" width="820">
+  <img src="assets/reta_pipeline.png" alt="ReTA Pipeline Overview" width="600">
 </p>
 
 ### 🛠️ Environment
